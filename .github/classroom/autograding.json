@@ -33,7 +33,7 @@
     {
       "name": "input4.txt",
       "setup": "javac StringStats.java",
-      "run": "java StringStats",
+      "run": "java StringStats && cat output.txt",
       "input": "input4.txt",
       "output": "Shortest word: hello\r\nLongest word: hello\r\nAverage word length: 5.000\r\nAlphabetically first word: hello\r\nAlphabetically last word: hello",
       "comparison": "included",
