@@ -5,7 +5,9 @@
 - Read in all the lines in this file and store them in an array of Strings
 - After you have read in everything, determine the following:
   - The shortest word
+    - If there are multiple words with the same shortest length, use the one that comes first in the file
   - The longest word
+    - If there are multiple words with the same longest length, use the one that comes first in the file
   - The average word length
   - The word that comes first alphabetically
   - The word that comes last alphabetically
