@@ -13,16 +13,16 @@
   - The word that comes last alphabetically
 - Write those values (with a label, see example output) to a file called `output.txt`
 
-Example Input:\
+***Example Input:***\
 input1.txt\
-Example Contents of input1.txt:\
+***Example Contents of input1.txt:***\
 cat\
 fire\
 dog\
 apple\
 barbecue\
 elephant\
-Example Contents of output.txt:\
+***Example Contents of output.txt:***\
 Shortest word: cat\
 Longest word: barbecue\
 Average word length: 5.167\
