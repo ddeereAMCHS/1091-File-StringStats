@@ -8,7 +8,7 @@
     - If there are multiple words with the same shortest length, use the one that comes first in the file
   - The longest word
     - If there are multiple words with the same longest length, use the one that comes first in the file
-  - The average word length
+  - The average word length (formatted to three decimal places)
   - The word that comes first alphabetically
   - The word that comes last alphabetically
 - Write those values (with a label, see example output) to a file called `output.txt`
